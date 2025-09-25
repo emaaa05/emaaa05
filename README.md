@@ -20,7 +20,10 @@ I’m passionate about building scalable, intuitive, and optimized solutions tha
 
 ## 📫 Contact
 
-- Email: [emanuelcorradini@gmail.com](mailto:emanuelcorradini@gmail.com)
+- Email: [emanuelcorradini@gmail.com](mailto:emanuelcorradini@gmail.com)  
+- LinkedIn: [Emanuel Corradini](https://www.linkedin.com/in/emanuel-corradini-8bb435229/)  
+- Portfolio: [emanuelcorradinidev.netlify.app](https://emanuelcorradinidev.netlify.app/)
+
 
 ---
 
