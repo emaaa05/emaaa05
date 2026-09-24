@@ -27,11 +27,13 @@ I’m passionate about building scalable, intuitive, and optimized solutions tha
 
 ---
 
-## 📊 GitHub Stats
+## Current focus
 
-![Ema's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaaa05&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emaaa05&layout=compact&theme=radical)
+- Fullstack development
+- ASP.NET Core and C#
+- React and Vite
+- REST APIs
+- Databases and system design
 
 <!--
 **emaaa05/emaaa05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
