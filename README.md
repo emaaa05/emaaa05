@@ -1,7 +1,6 @@
 # Hi there, I'm Ema 👋
 
-I'm a fullstack developer from Buenos Aires, Argentina.  
-I’m passionate about building scalable, intuitive, and optimized solutions that deliver smooth and engaging user experiences.
+I turn real problems into useful digital products, from data and APIs to the interface people use.
 
 ---
 
